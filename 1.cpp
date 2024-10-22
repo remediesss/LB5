@@ -229,7 +229,8 @@ void start()
     }
 }
 
-int main() {
+int main() 
+{
 
     start();
 
